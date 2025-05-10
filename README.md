@@ -8,8 +8,6 @@ This repository contains curated tools and resources for Red Team and Blue Team 
 
 - [🔴 Red Team Resources](#-red-team-resources)
 - [🔵 Blue Team Resources](#-blue-team-resources)
-- [📁 Repository Structure](#-repository-structure)
-- [📌 Usage](#-usage)
 
 ---
 
