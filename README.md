@@ -18,9 +18,9 @@ This repository contains curated tools and resources for Red Team and Blue Team 
 Explore offensive security techniques and tools in the Red Team section.
 
 - [RedTeam Directory](https://github.com/XenonBlack999/red-team/tree/main/RedTeam)
-  - [🔍 Enumeration Scripts](https://github.com/XenonBlack999/red-team/blob/main/RedTeam/enumeration.md)
-  - [🛠️ Exploits](https://github.com/XenonBlack999/red-team/blob/main/RedTeam/exploits.md)
-  - [📦 Payloads](https://github.com/XenonBlack999/red-team/blob/main/RedTeam/payloads.md)
+  - [ Enumeration Scripts](https://github.com/XenonBlack999/red-team/blob/main/RedTeam/enumeration.md)
+  - [ Exploits](https://github.com/XenonBlack999/red-team/blob/main/RedTeam/exploits.md)
+  - [ Payloads](https://github.com/XenonBlack999/red-team/blob/main/RedTeam/payloads.md)
 
 ---
 
@@ -29,20 +29,14 @@ Explore offensive security techniques and tools in the Red Team section.
 Defensive tools and best practices to detect, respond, and mitigate threats.
 
 - [BlueTeam Directory](https://github.com/XenonBlack999/red-team/tree/main/BlueTeam)
-  - [📈 Monitoring](https://github.com/XenonBlack999/red-team/blob/main/BlueTeam/monitoring.md)
-  - [📊 Incident Response](https://github.com/XenonBlack999/red-team/blob/main/BlueTeam/incident-response.md)
+  - [CVE](https://github.com/XenonBlack999/red-team/blob/main/BlueTeam/1.CVE/CVSS.md)
+  - [Emails-Analysis](https://github.com/XenonBlack999/red-team/blob/main/BlueTeam/2.Email-Analysis/Emails-Analysis.md)
+  - [File-Analysis](https://github.com/XenonBlack999/red-team/tree/main/BlueTeam/3.File-Analysis)
+      - [Cyber-Chef](https://github.com/XenonBlack999/red-team/blob/main/BlueTeam/3.File-Analysis/Cyber-Chef.md)
+      - [File-Hash-(Analysis)](https://github.com/XenonBlack999/red-team/blob/main/BlueTeam/3.File-Analysis/File-Hash-(Analysis).md)
+  - [Log-Analysis](https://github.com/XenonBlack999/red-team/tree/main/BlueTeam/4.Log-Analysis)
+      -[Tools/Splunk](https://github.com/XenonBlack999/red-team/blob/main/BlueTeam/4.Log-Analysis/Tools/Splunk.md)
+      -[Linux](https://github.com/XenonBlack999/red-team/blob/main/BlueTeam/4.Log-Analysis/Linux.md)
+      -[Windows](https://github.com/XenonBlack999/red-team/blob/main/BlueTeam/4.Log-Analysis/Windows.md)
 
 ---
-
-## 📁 Repository Structure
-
-```bash
-red-team/
-├── RedTeam/
-│   ├── enumeration.md
-│   ├── exploits.md
-│   └── payloads.md
-├── BlueTeam/
-│   ├── monitoring.md
-│   └── incident-response.md
-└── README.md
