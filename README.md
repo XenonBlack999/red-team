@@ -35,8 +35,8 @@ Defensive tools and best practices to detect, respond, and mitigate threats.
       - [Cyber-Chef](https://github.com/XenonBlack999/red-team/blob/main/BlueTeam/3.File-Analysis/Cyber-Chef.md)
       - [File-Hash-(Analysis)](https://github.com/XenonBlack999/red-team/blob/main/BlueTeam/3.File-Analysis/File-Hash-(Analysis).md)
   - [Log-Analysis](https://github.com/XenonBlack999/red-team/tree/main/BlueTeam/4.Log-Analysis)
-      -[Tools/Splunk](https://github.com/XenonBlack999/red-team/blob/main/BlueTeam/4.Log-Analysis/Tools/Splunk.md)
-      -[Linux](https://github.com/XenonBlack999/red-team/blob/main/BlueTeam/4.Log-Analysis/Linux.md)
-      -[Windows](https://github.com/XenonBlack999/red-team/blob/main/BlueTeam/4.Log-Analysis/Windows.md)
+       -[Tools/Splunk](https://github.com/XenonBlack999/red-team/blob/main/BlueTeam/4.Log-Analysis/Tools/Splunk.md)
+       -[Linux](https://github.com/XenonBlack999/red-team/blob/main/BlueTeam/4.Log-Analysis/Linux.md)
+       -[Windows](https://github.com/XenonBlack999/red-team/blob/main/BlueTeam/4.Log-Analysis/Windows.md)
 
 ---
